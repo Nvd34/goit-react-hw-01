@@ -1,0 +1,17 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(88, 88, 88);
+  background-color: rgb(176, 174, 174);
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.nameStat {
+  margin-bottom: 4px;
+}
+
+.valueStat {
+  font-weight: bold;
+}

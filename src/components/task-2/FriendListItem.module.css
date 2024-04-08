@@ -1,0 +1,23 @@
+.avatar {
+  margin-bottom: 10px;
+  height: 90px;
+  width: 80px;
+}
+
+.name {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 7px;
+}
+.text {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
